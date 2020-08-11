@@ -1,0 +1,31 @@
+- name: アツシ
+  gender: male
+  age:
+  height:
+  bmi:
+  description: |
+    主人公。ソフトウェアエンジニア。
+
+- name: サキ
+  gender: female
+  age:
+  height:
+  bmi:
+  description: |
+    アツシの妻。
+
+- name: ミツル
+  gender: male
+  age:
+  height:
+  bmi:
+  description: |
+    アツシの同僚。ソフトウェアエンジニア。ガジェットに目がない。理屈っぽい
+
+- name: エリカ
+  gender: female
+  age:
+  height:
+  bmi:
+  description: |
+    アツシの同僚かつサキの友だち。
