@@ -26,6 +26,11 @@
 
 ## メモ
 
+アツシとサキはけんかしている。
+「サキが怒ってる理由は？」というのが作品を貫く謎。
+
+## 参考
+
 - https://dic.nicovideo.jp/a/ポテサラじいさん
 - https://dic.nicovideo.jp/a/冷凍餃子論争
 - [ティーンズのための美学](https://chez-nous.typepad.jp/tanukinohirune/2020/08/teens.html)
