@@ -19,9 +19,9 @@
     好き嫌いが多く、あまり外食をしたがらない。
     平日は忙しくて適当に済ませるが、土日に凝った料理を作るタイプ。
 
-- name: ミツオ
+- name: コウスケ
   gender: male
-  age: 29
+  age: 27
   height: 172
   bmi: 26.6 # 前肥満
   description: |
@@ -33,7 +33,7 @@
 
 - name: エリ
   gender: female
-  age: 28
+  age: 29
   height: 162
   bmi: 21.0 # 普通
   description: |
