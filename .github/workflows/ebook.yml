@@ -1,4 +1,4 @@
-name: Build Ebook
+name: Ebook
 
 on:
   push:
@@ -7,6 +7,7 @@ on:
 
 jobs:
   build:
+    name: Build + Release
     runs-on: ubuntu-latest
 
     steps:
