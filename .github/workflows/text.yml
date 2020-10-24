@@ -1,0 +1,24 @@
+name: Text
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Lint
+        run: npm run lint
+
