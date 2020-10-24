@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "preset-fuji": {
+      "ja-no-successive-word": {
+        "allow": ["など", "そう"]
+      }
+    }
+  }
+}
