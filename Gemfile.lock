@@ -4,14 +4,14 @@ GEM
     commonmarker (0.21.0)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.7)
-    fuji_markdown (0.3.1)
+    fuji_markdown (0.4.1)
       commonmarker (~> 0.17)
-    gepub (1.0.11)
+    gepub (1.0.12)
       nokogiri (>= 1.8.2, < 1.11)
-      rubyzip (> 1.1.1, < 2.3)
+      rubyzip (> 1.1.1, < 2.4)
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
-    makimono (0.1.1)
+    makimono (0.2.0)
       commonmarker (>= 0.21)
       fuji_markdown (>= 0.3)
       gepub (>= 1.0)
@@ -21,7 +21,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     ruby-enum (0.8.0)
       i18n
-    rubyzip (2.2.0)
+    rubyzip (2.3.0)
     thor (1.0.1)
 
 PLATFORMS
